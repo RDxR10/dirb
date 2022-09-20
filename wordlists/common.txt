@@ -4612,3 +4612,8 @@ zoom
 zope
 zorum
 zt
+public
+docker
+Tools
+phonelist
+uuid
